@@ -1,6 +1,6 @@
 ---
 title: Valen Yamamoto
-layout: page
+layout: resume
 ---
 
 texture:
