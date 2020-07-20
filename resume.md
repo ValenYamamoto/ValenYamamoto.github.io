@@ -4,8 +4,8 @@ layout: resume
 ---
 
 # Valen Yamamoto
-# Computer Science and Engineering Student
-# [Github Page](https://github.com/ValenYammaoto)
+* Computer Science and Engineering Student
+* [Github Page](https://github.com/ValenYammaoto)
 ----
 ## Contact Information
 Location: San Jose, CA 95070  
