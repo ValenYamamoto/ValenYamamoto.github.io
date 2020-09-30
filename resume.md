@@ -34,7 +34,7 @@ Microcontrollers: Arduino, Raspberry Pi, TI Launchpad
 Built up small scale HPC cluster, learned about Linux systems and how to configure Linux systems. Worked with MSRs to read run-time information from CPU to help time, analyze, and optimize matrix multiplication algorithms.
 
 ### *Project Coordinator, IEEE@UCI* - 2020-2021 
-Manage and develop club wide projects and lead workshops in topics like KiCAD, Solidworks, and Neural Networks.
+Manage and develop club wide projects. Developed and held workshop on deep learning, neural networks, and PyTorch Deep Learning Framework
 
 ### *Software Lead, FRC Team 649* - 2018-2019
 Developed autonomous path-following code in Java. Defined code porject structure and wrote technical documents on robot softwrae. Taught new students to code in Java, led a team of ten people in code development.
@@ -47,3 +47,7 @@ Commissioned to write a program to select and display winners of a raffle, recei
 
 ### *Delivery Drone* - 2019 
 Built a delivery drone as part of a engineering class in high school. Tested different combinations of motors and rotors for maximum lift and control, custom machine chasis
+
+---
+## References
+Please contact me for references
