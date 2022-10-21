@@ -1,6 +1,6 @@
 # Basic
 title = "Valen Yamamoto"
-baseURL = "https://ValenYamamoto.github.io/"
+baseURL = "https://ValenYamamoto.github.io"
 theme = "vno-hugo"
 
 # supported languages: en-us, zh-cn (lowercase language codes only)
