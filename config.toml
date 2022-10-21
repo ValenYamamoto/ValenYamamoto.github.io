@@ -1,7 +1,7 @@
 # Basic
 title = "Valen Yamamoto"
 baseURL = "https://ValenYamamoto.github.io"
-theme = "vno-hugo"
+theme = "vno"
 
 # supported languages: en-us, zh-cn (lowercase language codes only)
 defaultContentLanguage = 'en-us'
