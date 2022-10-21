@@ -15,7 +15,7 @@ defaultContentLanguage = 'en-us'
     weight = 20
 
 # Pagination
-paginate = 10
+paginate = 20
 paginatePath = "page"
 
 [outputs]
