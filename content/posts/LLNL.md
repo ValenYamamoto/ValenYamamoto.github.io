@@ -1,10 +1,10 @@
 ---
 layout: post
-tags: ["LLNL","Machine Learning", "internship"]
+tags: ["LLNL", "NVIDIA", "Machine Learning", "internship"]
 title: "Machine Learning Internship @ LLNL"
 date: 2021-11-20T20:46:33-07:00
 math: false
-draft: true
+draft: false
 ---
 
 My second summer internship at Lawrence Livermore National Laboratory (LLNL)
@@ -33,5 +33,14 @@ stride and dilation, and found that a model with pooling and 2 convolution
 channels had the best performance and even out-performed the original model. It
 also, on NVIDIA A100 GPUs and the Samba Nova SN-10 hardware, did exceed the
 target throughput of 100,000 samples per second.
+
+At the end of the summer, I compiled all my findings into a research poster,
+which I submitted to the ACM Student Research Poster Competition at
+Supercomputing 21. I was able to present my poseter at the conference in St.
+Louis.
+
+![Poster](/images/MIR_poster.png)
+
+I also was able to contribute to the group paper.
 
 

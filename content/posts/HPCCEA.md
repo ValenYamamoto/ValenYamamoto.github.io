@@ -4,7 +4,7 @@ tags: ["linux","MPI", "LLNL"]
 title: "HPCCEA Internship @ LLNL"
 date: 2020-08-20T20:46:28-07:00
 math: false
-draft: true
+draft: false
 ---
 
 For my first internship, I worked at the Lawrence Livermore National Laboratory
@@ -36,6 +36,27 @@ determine at what input sizes the algorithms were compute bounds and when they
 became memory bound. I later use Intel's PIN tools to count the times individual
 instructions were called to verify that no extraneous instructions were being
 issued.
+
+For the naive matrix multiplication algorithm, the algorithm becomes
+increasingly more memory bound when the input size is greater than around 1000.
+In order to combat this, I would pull several values ahead into the cache to
+have faster memory reads. This significantly decreased the execution time.
+
+![naive optimization graph](/images/naive_optimization.png)
+
+For the strassen algorithm for an nxn matrix, I used the n=2 input case as the
+base case for the recursion and then applied Intel Intrinsics vector
+instructions. 
+
+![Strassen optimization graph](/images/strassen_instrinsics.png)
+
+In the end, a comparison showed that the strassen algorithm only had a better
+performance than the naive algorithm when the input size was greater than 2^12
+or 4096. This is because although the strassen algorithm has a better time
+complexity than the naive algorithm, the hidden constant in the Big-O is very
+large.
+
+![comparison](/images/naive_strassen_comparison.png)
 
 For a more through explanation of my findings, see the following Github
 repository for more graphs as well as the code to generate those results:
