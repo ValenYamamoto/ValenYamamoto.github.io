@@ -4,7 +4,7 @@ tags: ["linux","IEEE"]
 title: "Linux Command Line Workshop"
 date: 2021-10-12T20:38:24-07:00
 math: false
-draft: true
+draft: false
 ---
 [Github Repository](https://github.com/ValenYamamoto/IEEE_Linux_Workshop)
 

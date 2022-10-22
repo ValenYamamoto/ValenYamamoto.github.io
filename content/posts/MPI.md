@@ -26,3 +26,4 @@ along with:
 * [Python](https://colab.research.google.com/drive/1DmPziA4KuqG6Z9EwsM07X5OYod_Wq2SF?usp=sharing) 
 
 
+{{<gslides src="https://docs.google.com/presentation/d/1RrL4esAZWvu_VNEAWNt0Z5PT-3Dv0g_Hd6210WwEMCU/embed?start=false&loop=false&delayms=3000">}}
