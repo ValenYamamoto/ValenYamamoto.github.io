@@ -1,7 +1,7 @@
 # Basic
 title = "Valen Yamamoto"
 baseURL = "https://ValenYamamoto.github.io"
-theme = "vno-hugo"
+theme = "vno"
 
 # supported languages: en-us, zh-cn (lowercase language codes only)
 defaultContentLanguage = 'en-us'
@@ -36,7 +36,7 @@ paginatePath = "page"
     
 [params]
 author = "Valen Yamamoto"
-subtitle = "Computer Science Student @ UCI"
+subtitle = "CS Student @ UCI"
 description = "Welcome to my portfolio!"
 welcomeMessage = "Hi! I am a computer science student at the University of California, Irvine specializing in machine learning, robotics algorithms, and optimizing parallel algorithms for high performance environments"
 
@@ -57,7 +57,7 @@ owner = ""
 [params.social]
 github = "ValenYamamoto"
 mail = "vyamamot@uci.edu"
-linkedin = "ValenYamamoto"
+linkedin = "valen-yamamoto"
 
 [params.ga]
 ID = "your_ga_id"

@@ -7,3 +7,6 @@ math: false
 draft: true
 ---
 
+NVIDIA graciously provided the IEEE@UCI with 15 Jetson Nano single board
+computers to use for educational purposes, so I held a workshop allowing people
+to run through the Hello AI World tutorial NVIDIA set up.
