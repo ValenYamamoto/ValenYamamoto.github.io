@@ -21,6 +21,18 @@ paginatePath = "page"
 [outputs]
   home = ["HTML", "RSS"]
 
+[menu]
+  [[menu.main]]
+    name = "About Me"
+    identifier = "aboutme"
+    url = "/2022/11/about-me/"
+    weight = 10
+  [[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    url = "/2022/12/projects/"
+    weight = 10
+
     
 [params]
 author = "Valen Yamamoto"
