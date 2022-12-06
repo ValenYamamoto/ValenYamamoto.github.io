@@ -30,7 +30,7 @@ paginatePath = "page"
   [[menu.main]]
     name = "Projects"
     identifier = "projects"
-    url = "/2022/12/projects/"
+    url = "/2022/11/projects/"
     weight = 10
 
     

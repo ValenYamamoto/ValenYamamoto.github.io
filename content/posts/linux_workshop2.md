@@ -9,6 +9,8 @@ draft: false
 
 [Github Repository](https://github.com/ValenYamamoto/IEEE_Linux_Workshop)
 
+Check out the first Linux workshop [here]({{< ref "linux_workshop.md" >}})
+
 Rerunning last year's workshop, I realized that I did not write down any
 information on what I said last year. So this year, I have made a powerpoint
 presentation to go with the workshop. 

@@ -9,6 +9,8 @@ draft: false
 
 [Github Repository](https://github.com/ValenYamamoto/IEEE-Linux_Dotfiles)
 
+Check out the first dotfiles workshop [here]({{< ref "linux_dotfiles.md" >}})
+
 For the second time around, I've added some more information on topics I feel
 would be useful for engineering students who have to sign into the servers for
 our assignments.
